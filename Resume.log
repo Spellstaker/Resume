@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.27)  30 JUL 2019 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.27)  10 AUG 2019 17:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -202,53 +202,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 18.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--33
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--33
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
+Underfull \hbox (badness 10000) in paragraph at lines 48--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--43
-
+Overfull \hbox (0.76399pt too wide) in paragraph at lines 66--69
+\T1/cmr/bx/n/10 Number The-ory and Cryp-tog-ra-phy \T1/cmr/m/n/10 by Na-tional Re-search Uni-ver-sity Higher School
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--65
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 79.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
  4975 strings out of 494519
@@ -259,7 +239,7 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  29i,8n,27p,232b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on e:/aakash/Docs/Resume/Resume.pdf (1 page, 96637 bytes).
+Output written on e:/aakash/Docs/Resume/Resume.pdf (1 page, 97092 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
